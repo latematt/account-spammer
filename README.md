@@ -36,4 +36,4 @@ Maven users:
         </dependency>
     </dependencies>
 
-Otherwise, include the library provided [here](http://latematt.pw/maven/pw/latematt/account-spammer/1.2.0)
+Otherwise, include the library provided [here](https://github.com/latematt/account-spammer/releases).
