@@ -18,20 +18,15 @@ If you'd like an example on how to spam a register page using this library, then
 
 # Installation
 
-First, add the library to your project somehow. For maven users, copy this into your pom:
+Maven users:
 
-    <repositories>
-        <repository>
-            <releases>
-                <enabled>true</enabled>
-                <updatePolicy>always</updatePolicy>
-				<checksumPolicy>fail</checksumPolicy>
-            </releases>
-            <id>latematt-pw-repository</id>
-            <name>latematt.pw repository</name>
-            <url>http://latematt.pw/maven</url>
-        </repository>
-    </repositories>
+	<repositories>
+	    <repository>
+	        <id>latematt</id>
+	        <name>latematt's Repository</name>
+	        <url>http://latematt.pw/maven</url>
+	    </repository>
+	</repositories>
 
     <dependencies>
         <dependency>
